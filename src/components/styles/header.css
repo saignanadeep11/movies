@@ -1,0 +1,17 @@
+.mainHeaderDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.headerSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  cursor: pointer;
+}
+div {
+  margin: 0 10px 0 10px;
+}
